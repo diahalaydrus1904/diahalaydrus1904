@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Nama saya *Rodiah Hasan Alaydrus*, tapi bisa dipanggil Diah. Saya adalah mahasiswa semester 5 Teknik Informatika di Universitas Pancasila dengan minat yang kuat dalam data science, artificial intelligence, machine learning, dan matematika. Saya sangat tertarik dengan bagaimana bidang-bidang ini saling berhubungan dan berkontribusi dalam menciptakan inovasi serta solusi untuk berbagai permasalahan di dunia nyata.
+Nama saya **Rodiah Hasan Alaydrus**, tapi bisa dipanggil Diah. Saya adalah mahasiswa semester 5 Teknik Informatika di Universitas Pancasila dengan minat yang kuat dalam data science, artificial intelligence, machine learning, dan matematika. Saya sangat tertarik dengan bagaimana bidang-bidang ini saling berhubungan dan berkontribusi dalam menciptakan inovasi serta solusi untuk berbagai permasalahan di dunia nyata.
 
 Dalam perjalanan akademik saya, saya selalu berusaha mencapai yang terbaik dengan mempertahankan IPK sementara 3,92, sembari terus mencari peluang untuk memperluas wawasan di luar kelas. Saya percaya bahwa pembelajaran adalah proses seumur hidup, dan saya selalu menantang diri sendiri untuk berkembang, baik secara teknis maupun personal.
 
